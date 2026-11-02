@@ -1,4 +1,4 @@
-
+# As the older KNMI feeds and XML structures are becoming outdated and are being phased out, this script is now deprecated.
 # Summary
 
 A python script that displays the weather warnings for the Netherlands issued by the KNMI in domoticz.
